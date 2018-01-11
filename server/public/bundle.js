@@ -27971,7 +27971,7 @@ exports.default = [{
   component: _Home2.default,
   exact: true
 }, {
-  loadData: _UsersList.loadData,
+  // loadData,
   path: '/users',
   component: _UsersList2.default
 }];
